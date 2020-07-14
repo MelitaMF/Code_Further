@@ -35,8 +35,9 @@ To do List:
 Project is: _in development_ :bulb:
 
 ## Contributors
-* [@zuzanakovacsova](https://github.com/zuzanakovacsova)
+* [emmassr](https://github.com/emmassr)
 * [@MelitaMF](https://github.com/MelitaMF)
+* [@zuzanakovacsova](https://github.com/zuzanakovacsova)
 
 ## Contact
 Contactus on gits :) :mailbox_with_mail:
