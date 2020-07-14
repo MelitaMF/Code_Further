@@ -1,4 +1,4 @@
-# Code_Further
+# Code_Further_hackerrank_solutions
 :snake: :computer: :loop: :bar_chart: :page_with_curl:
 
 ## Table of contents
