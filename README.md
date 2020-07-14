@@ -15,7 +15,7 @@
 
 ## Technologies
 * Python :snake:
-* SQL :computer;
+* SQL :computer:
 
 ## Setup
 Not needed.
@@ -33,8 +33,6 @@ To do List:
 
 ## Status
 Project is: _in development_ :bulb:
-
-##Improvements/Limitations
 
 ## Contributors
 *
